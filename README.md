@@ -1,10 +1,21 @@
+
 # Product Catalog Management System
 
 This repository contains a Spring Boot application for managing a product catalog.
 
+
 ## Video Demo
 
 Watch the demo video [here](https://vimeo.com/986254677).
+
+## Technologies Used
+
+- **Backend**:
+  - Spring Boot
+  - PostgreSQL
+
+- **Frontend**:
+  - Thymeleaf
 
 ## Getting Started
 
@@ -62,15 +73,6 @@ Describe the endpoints available in your application:
 - `POST /addProduct`: Adds a new product to the catalog.
 - `GET /products`: Displays all products in the catalog.
 
-### Technologies Used
-
-List the technologies and frameworks used in your project:
-
-- Spring Boot
-- Thymeleaf
-- Spring Data JPA
-- (Add more as needed)
-
 ### Project Structure
 
 Briefly explain the structure of your project, focusing on important directories or files.
@@ -107,10 +109,3 @@ project-root/
 └── pom.xml
 ```
 
-### License
-
-Include the license under which your project is distributed (e.g., MIT License).
-
----
-
-Feel free to customize this template further based on your specific project details and requirements. This README file will help users understand and navigate your product catalog management system effectively.
